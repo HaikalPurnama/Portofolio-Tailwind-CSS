@@ -1,51 +1,72 @@
-# 🚀 React Tailwind Portfolio Website ✨
-![image](https://github.com/user-attachments/assets/95d4ae0f-a608-4957-84c8-017cb4e4834e)
+# 🔗 Demo Langsung
+👉 portofolio-tailwind-css-ashy.vercel.app
 
-![image](https://github.com/user-attachments/assets/85986bd3-ca9e-445c-bb69-7893ec1297e6)
 
-# 🖥️ Demo
-https://uts-web-client-development.vercel.app/
+# 🚀 Fitur Utama
+✨ Desain modern dan bersih
 
-# 📝 Deskripsi
-Selamat datang di proyek Portfolio Website! 🎨 Ini adalah website portfolio modern dan responsif yang dibangun menggunakan React dan Tailwind CSS. Website ini sempurna untuk UI/UX designer, web developer, atau profesional kreatif lainnya yang ingin menampilkan karya mereka dengan cara yang elegan dan profesional.
+📱 Responsif di semua perangkat
 
-# ✨ Fitur
+🌙 Mode terang dan gelap
 
-🏠 Homepage dengan hero section yang eye-catching
-👨‍💼 About Section untuk menceritakan tentang diri Anda
-💼 Portfolio Gallery untuk menampilkan proyek-proyek terbaik Anda
-💬 Testimonial Section untuk menampilkan feedback dari klien
-📱 Fully Responsive untuk semua ukuran perangkat
-🌙 Clean & Modern Design dengan layout yang rapi
-⚡ Lightning Fast berkat Vite dan optimasi React
-🎨 Customizable dengan Tailwind CSS
+⚡ Animasi interaktif yang halus
 
-# 🛠️ Teknologi
-Proyek ini dibangun dengan:
+🧩 Komponen UI dari Flowbite React
 
-⚛️ React - Library JavaScript untuk membangun UI
-🌬️ Tailwind CSS - Framework CSS utility-first
-🔥 Vite - Build tool yang super cepat
-💧 Flowbite - Komponen UI berbasis Tailwind
+⚙️ Dibangun dengan React + Vite + TypeScript
 
-# 📁 Struktur Proyek
-/
-├── public/              # Aset statis
+📁 Struktur proyek yang terorganisir dengan baik
+
+# 🛠️ Teknologi yang Digunakan
+React
+
+Tailwind CSS
+
+Flowbite React
+
+TypeScript
+
+Vite
+
+Prettier
+
+ESLint
+
+# 📂 Struktur Proyek
+arduino
+Salin
+Edit
+Portofolio-Tailwind-CSS/
+├── public/
 ├── src/
-│   ├── components/      # Komponen React
-│   │   ├── Header.jsx
-│   │   ├── HeroSection.jsx
-│   │   ├── WorkSection.jsx
-│   │   ├── ProjectItem.jsx
-│   │   ├── ProjectCard.jsx
-│   │   ├── TestimonialsSection.jsx
-│   │   ├── TestimonialItem.jsx
-│   │   ├── ContactSection.jsx
-│   │   └── Portfolio.jsx
-│   ├── App.jsx          # Komponen utama
-│   ├── main.jsx         # Entry point
-│   └── index.css        # Styles global
-├── .gitignore
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.tsx
+├── tailwind.config.js
+├── vite.config.ts
 ├── package.json
-├── tailwind.config.js   # Konfigurasi Tailwind
 └── README.md
+# ⚙️ Cara Menjalankan Proyek
+Klon repositori ini
+
+bash
+Salin
+Edit
+git clone https://github.com/azis7797/Portofolio-Tailwind-CSS.git
+cd Portofolio-Tailwind-CSS
+Instal dependensi
+
+bash
+Salin
+Edit
+npm install
+Jalankan server pengembangan
+
+bash
+Salin
+Edit
+npm run dev
+Buka di browser
+
+Akses http://localhost:5173 untuk melihat website.
