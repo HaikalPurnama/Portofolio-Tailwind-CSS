@@ -50,26 +50,3 @@ Portofolio-Tailwind-CSS/
 ├── vite.config.ts
 ├── package.json
 └── README.md
-# ⚙️ Cara Menjalankan Proyek
-Klon repositori ini
-
-bash
-Salin
-Edit
-git clone https://github.com/azis7797/Portofolio-Tailwind-CSS.git
-cd Portofolio-Tailwind-CSS
-Instal dependensi
-
-bash
-Salin
-Edit
-npm install
-Jalankan server pengembangan
-
-bash
-Salin
-Edit
-npm run dev
-Buka di browser
-
-Akses http://localhost:5173 untuk melihat website.
